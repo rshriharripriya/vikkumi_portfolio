@@ -3455,7 +3455,9 @@ blockquote {
   height: 100%;
   object-fit: cover;
 }
-
+.justify{
+  text-align: justify !important;
+}
 .header-image-wrapper {
   flex: 0 auto;
   justify-content: center;
