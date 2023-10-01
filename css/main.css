@@ -3891,7 +3891,10 @@ background: #191c29;
 .work-heading.border {
   color: #111223;
   text-shadow: -1px 0 #fff, 1px 0 #fff, 0 -1px #fff, 0 1px #fff;
+   border: none !important;
 }
+
+
 
 .work-image {
   width: 100%;
